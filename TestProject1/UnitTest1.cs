@@ -1,4 +1,4 @@
-namespace TestProject1
+namespace Practice1BasicCaculation.TestProject1
 {
     public class UnitTest1
     {
